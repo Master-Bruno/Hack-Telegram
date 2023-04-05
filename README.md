@@ -53,7 +53,6 @@ Installation Successful......
 Any Error :- First login with your account.Then create the connection with your target Telegram account. After that the account can be hacked automatically. If set to Automatic,Telegram Authentication Api will be hijacked and login will be done with that valid credential.
 
 
-# Support
-
-Join Red Hackers Army Group
+# Disclaimer
+Note
 Education purpose only.. Iam not responsible your actions
